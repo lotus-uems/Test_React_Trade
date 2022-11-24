@@ -19,4 +19,4 @@
 
 Для связи по всем вопросам, пишите в телеграм: @TAU15
 
-Выполненное задание загрузите по этой ссылке: https://airtable.com/shrOLTJFqmYRb7sgv
+Выполненное задание загрузите по этой ссылке: https://airtable.com/shrkZvrZGEVlzle5m
