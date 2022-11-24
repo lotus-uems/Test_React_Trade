@@ -2,7 +2,8 @@
 Задача:
 -------
 
-Создать онлайн комнату как на скриншоте: https://github.com/lotus-uems/Test_Task_React/blob/main/timer.png. 
+Создать онлайн комнату как на скриншоте:
+![alt text](https://github.com/lotus-uems/Test_Task_React/blob/main/timer.png) 
 
 Суть задачи: организовать синхронную работу таймера для всех подключенных участников. 
 
