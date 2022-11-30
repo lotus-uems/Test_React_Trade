@@ -4,7 +4,7 @@
 
 Создать онлайн комнату для проведения торгов как на скриншоте:
 
-![alt text](https://github.com/lotus-uems/Test_Task_React/blob/main/timer.png) 
+![alt text](https://github.com/lotus-uems/Test_Task_React/blob/main/timer.png?nocache=1) 
 
 Необходимо организовать синхронную работу таймера для всех подключенных участников. 
 
