@@ -18,7 +18,7 @@
 Результат необходимо выхожить в облако для демонстрации работы в реальном времени.
 
 Пример реализации на PHP:
-![alt text](https://www.youtube.com/watch?v=YLVSHvq5g6k)
+(https://www.youtube.com/watch?v=YLVSHvq5g6k)
 
 Для связи по всем вопросам, пишите в телеграм: @TAU15
 
