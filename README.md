@@ -17,11 +17,13 @@
 
 Результат необходимо выхожить в облако для демонстрации работы в реальном времени.
 
-Пример реализации на PHP:
-
-![Пример проведения торгов ЛОТОС](https://github.com/lotus-uems/Test_React_Trade/blob/main/lotus-trade-video.png)
-(https://www.youtube.com/watch?v=YLVSHvq5g6k)
-
 Для связи по всем вопросам, пишите в телеграм: @TAU15
 
 Выполненное задание загрузите по этой ссылке: https://airtable.com/shrkZvrZGEVlzle5m
+
+-------------
+
+Пример реализации на PHP:
+
+![Пример проведения торгов ЛОТОС(https://github.com/lotus-uems/Test_React_Trade/blob/main/lotus-trade-video.png)]
+(https://www.youtube.com/watch?v=YLVSHvq5g6k)
