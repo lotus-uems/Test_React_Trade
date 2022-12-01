@@ -4,7 +4,7 @@
 
 Создать онлайн комнату для проведения торгов как на скриншоте:
 
-![alt text](https://github.com/lotus-uems/Test_Task_React/blob/main/timer.png?nocache=1) 
+![Комната проведения торгов](https://github.com/lotus-uems/Test_Task_React/blob/main/timer.png?nocache=1) 
 
 Необходимо организовать синхронную работу таймера для всех подключенных участников. 
 
@@ -18,7 +18,7 @@
 Результат необходимо выхожить в облако для демонстрации работы в реальном времени.
 
 Пример реализации на PHP:
-(https://www.youtube.com/watch?v=YLVSHvq5g6k)
+![Пример проведения торгов ЛОТОС](https://github.com/lotus-uems/Test_React_Trade/blob/main/lotus-trade-video.png)(https://www.youtube.com/watch?v=YLVSHvq5g6k)
 
 Для связи по всем вопросам, пишите в телеграм: @TAU15
 
