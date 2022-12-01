@@ -25,5 +25,5 @@
 
 Пример реализации на PHP:
 
-![Пример проведения торгов ЛОТОС(https://github.com/lotus-uems/Test_React_Trade/blob/main/lotus-trade-video.png)]
-(https://www.youtube.com/watch?v=YLVSHvq5g6k)
+![Пример проведения торгов ЛОТОС](https://github.com/lotus-uems/Test_React_Trade/blob/main/lotus-trade-video.png)
+https://www.youtube.com/watch?v=YLVSHvq5g6k
